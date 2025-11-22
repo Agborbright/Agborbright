@@ -3,10 +3,9 @@ I'm Bright a Fraud Analyst
 
 ### I'm looking to collaborate on
 - fraud data
-- sales data
 
 ### Ask me about
-- fraud analysis prevention
+- fraud analysis and prevention
 
 ### Reach me via
 - 📬 brightagbor@yahoo.com
